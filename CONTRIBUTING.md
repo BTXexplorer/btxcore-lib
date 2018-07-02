@@ -246,8 +246,8 @@ git checkout -b remove/some-file
 
 We expect pull requests to be rebased to the master branch before merging:
 ```sh
-git remote add underdarkskies git@github.com:underdarkskies/btxcore.git
-git pull --rebase underdarkskies master
+git remote add BTXexplorer git@github.com:BTXexplorer/btxcore.git
+git pull --rebase BTXexplorer master
 ```
 
 Note that we require rebasing your branch instead of merging it, for commit readability reasons.
@@ -258,11 +258,11 @@ git push origin your_branch_name
 git push origin feature/some-new-stuff
 git push origin fix/some-bug
 ```
-Finally go to [github.com/underdarkskies/btxcore](https://github.com/underdarkskies/btxcore) in your web browser and issue a new pull request.
+Finally go to [github.com/BTXexplorer/btxcore](https://github.com/BTXexplorer/btxcore) in your web browser and issue a new pull request.
 
 Main contributors will review your code and possibly ask for changes before your code is pulled in to the main repository.  We'll check that all tests pass, review the coding style, and check for general code correctness. If everything is OK, we'll merge your pull request and your code will be part of btxcore.
 
 If you have any questions feel free to post them to
-[github.com/underdarkskies/btxcore/issues](https://github.com/underdarkskies/btxcore/issues).
+[github.com/BTXexplorer/btxcore/issues](https://github.com/BTXexplorer/btxcore/issues).
 
 Thanks for your time and code!

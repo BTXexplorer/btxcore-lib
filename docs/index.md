@@ -35,14 +35,14 @@ To get started, just `npm install btxcore` or `bower install btxcore`.
 
 Some functionality is implemented as a module that can be installed separately:
 
-* [Payment Protocol Support](https://github.com/underdarkskies/btxcore-payment-protocol)
-* [Peer to Peer Networking](https://github.com/underdarkskies/btxcore-p2p)
-* [bitcore Core JSON-RPC](https://github.com/underdarkskies/bitcored-rpc)
-* [Payment Channels](https://github.com/underdarkskies/btxcore-channel)
-* [Mnemonics](https://github.com/underdarkskies/btxcore-mnemonic)
-* [Elliptical Curve Integrated Encryption Scheme](https://github.com/underdarkskies/btxcore-ecies)
-* [Blockchain Explorers](https://github.com/underdarkskies/btxcore-explorers)
-* [Signed Messages](https://github.com/underdarkskies/btxcore-message)
+* [Payment Protocol Support](https://github.com/BTXexplorer/btxcore-payment-protocol)
+* [Peer to Peer Networking](https://github.com/BTXexplorer/btxcore-p2p)
+* [bitcore Core JSON-RPC](https://github.com/BTXexplorer/bitcored-rpc)
+* [Payment Channels](https://github.com/BTXexplorer/btxcore-channel)
+* [Mnemonics](https://github.com/BTXexplorer/btxcore-mnemonic)
+* [Elliptical Curve Integrated Encryption Scheme](https://github.com/BTXexplorer/btxcore-ecies)
+* [Blockchain Explorers](https://github.com/BTXexplorer/btxcore-explorers)
+* [Signed Messages](https://github.com/BTXexplorer/btxcore-message)
 
 # Examples
 
