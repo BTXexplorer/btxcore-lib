@@ -63,7 +63,6 @@ btxcore.deps.bnjs = require('bn.js');
 btxcore.deps.bs58 = require('bs58');
 btxcore.deps.Buffer = Buffer;
 btxcore.deps.elliptic = require('elliptic');
-btxcore.deps.nodeX16r = require('node-x16r');
 btxcore.deps._ = require('lodash');
 
 // Internal usage, exposed for testing/advanced tweaking

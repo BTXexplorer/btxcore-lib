@@ -4618,16 +4618,16 @@ function removeNetwork(network) {
 addNetwork({
   name: 'livenet',
   alias: 'mainnet',
-  pubkeyhash: 0x3c,
-	privatekey: 0x80,
-	scripthash: 0x7a,
-	xpubkey: 0x0488b21e,
-	xprivkey: 0x0488ade4,
-	networkMagic: 0x5241564e,
-	port: 8767,
-	dnsSeeds: [
-		'seed-btx.bitcore.org',
-		'seed-btx.bitactivate.com'
+  pubkeyhash: 0x03,
+  privatekey: 0x80,
+  scripthash: 0x7d,
+  xpubkey: 0x0488b21e,
+  xprivkey: 0x0488ade4,
+  networkMagic: 0xf9beb4d9,
+  port: 8555,
+  dnsSeeds: [
+    '37.120.190.76',
+    '185.194.142.122'
   ]
 });
 
