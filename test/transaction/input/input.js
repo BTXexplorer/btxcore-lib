@@ -4,13 +4,13 @@ var should = require('chai').should();
 var expect = require('chai').expect;
 var _ = require('lodash');
 
-var ravencore = require('../../..');
-var errors = ravencore.errors;
-var PrivateKey = ravencore.PrivateKey;
-var Address = ravencore.Address;
-var Script = ravencore.Script;
-var Networks = ravencore.Networks;
-var Input = ravencore.Transaction.Input;
+var btxcore = require('../../..');
+var errors = btxcore.errors;
+var PrivateKey = btxcore.PrivateKey;
+var Address = btxcore.Address;
+var Script = btxcore.Script;
+var Networks = btxcore.Networks;
+var Input = btxcore.Transaction.Input;
 
 describe('Transaction.Input', function() {
 
